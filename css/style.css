@@ -1,3 +1,7 @@
-body{
+body {
     background-size: cover;
+}
+
+img {
+    width: 10vw;
 }
