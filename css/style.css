@@ -1,7 +1,30 @@
 body {
-    background-size: cover;
+    background-size: 100%;
+    background-attachment: fixed;
+    color: rgb(40, 138, 140);
+    
 }
 
+strong {
+    color: blueviolet;
+}
 img {
     width: 10vw;
+    
+}
+
+a {
+    text-decoration: none;
+    color: rgb(40, 138, 140);
+}
+
+ul {
+   list-style-type: square;
+   display: flexbox;
+   width: 30vw;
+
+}
+
+p {
+    width: 15vw;
 }
